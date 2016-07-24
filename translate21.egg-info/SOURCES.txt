@@ -1,0 +1,7 @@
+translate21.py
+translate21.egg-info/PKG-INFO
+translate21.egg-info/SOURCES.txt
+translate21.egg-info/dependency_links.txt
+translate21.egg-info/entry_points.txt
+translate21.egg-info/requires.txt
+translate21.egg-info/top_level.txt

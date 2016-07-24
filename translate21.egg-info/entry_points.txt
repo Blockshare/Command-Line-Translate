@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        translate21=translate21:cli
+    
