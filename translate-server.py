@@ -20,6 +20,7 @@ service = build('translate', 'v2', developerKey=os.environ.get('GOOGLE_TRANSLATE
 @payment.required(3000)
 def translate():
     """Translate from English to Chinese."""
+    print(request.get_data)
     text = request.args.get('text')
 
     # Send a request to Google's Translate REST API using your API credentials defined above
